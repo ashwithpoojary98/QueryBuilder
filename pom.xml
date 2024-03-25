@@ -6,7 +6,7 @@
 
     <groupId>io.github.ashwithpoojary98</groupId>
     <artifactId>querybuilder</artifactId>
-    <version>1.0.6</version>
+    <version>1.0.0</version>
     <build>
         <plugins>
             <plugin>
@@ -32,8 +32,8 @@
     </build>
     <packaging>jar</packaging>
     <name>${project.groupId}:${project.artifactId}</name>
-    <description>Flutter finder plugin for Appium in java</description>
-    <url>https://github.com/ashwithpoojary98/javaflutterfinder</url>
+    <description>Query Builder</description>
+    <url>https://github.com/ashwithpoojary98/QueryBuilder</url>
     <licenses>
         <license>
             <name>MIT License</name>
@@ -47,13 +47,13 @@
             <name>ashwith</name>
             <email>ashwithpoojary98@gmail.com</email>
             <organization>ashwithpoojary98</organization>
-            <organizationUrl>https://github.com/ashwithpoojary98/javaflutterfinder</organizationUrl>
+            <organizationUrl>https://github.com/ashwithpoojary98/QueryBuilder</organizationUrl>
         </developer>
     </developers>
     <scm>
-        <connection>scm:git:git://github.com/ashwithpoojary98/javaflutterfinder.git</connection>
-        <developerConnection>scm:git:ssh://github.com:ashwithpoojary98/javaflutterfinder.git</developerConnection>
-        <url>https://github.com/ashwithpoojary98/javaflutterfinder</url>
+        <connection>scm:git:git://github.com/ashwithpoojary98/QueryBuilder.git</connection>
+        <developerConnection>scm:git:ssh://github.com:ashwithpoojary98/QueryBuilder.git</developerConnection>
+        <url>https://github.com/ashwithpoojary98/QueryBuilder</url>
     </scm>
 
     <properties>
